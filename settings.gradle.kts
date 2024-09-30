@@ -1,1 +1,1 @@
-rootProject.name = "websocket-demo"
+rootProject.name = "websocket"
